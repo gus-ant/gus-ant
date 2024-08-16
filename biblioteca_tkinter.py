@@ -2,7 +2,7 @@
 
 import tkinter as tk
 from tkinter import ttk, messagebox
-from parte1 import Biblioteca, Livro, Usuario  # Certifique-se de que o arquivo "parte1.py" está no mesmo diretório
+from Biblioteca_inteligente import Biblioteca, Livro, Usuario  # Certifique-se de que o arquivo "parte1.py" está no mesmo diretório
 
 
 class BibliotecaApp(tk.Tk):
