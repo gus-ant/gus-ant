@@ -1,25 +1,42 @@
-### Olá, eu sou @gus-ant! 👋
-Desenvolvedor apaixonado por Python e fascinado pelo mundo da Aeronáutica.
+# 🚀 **Olá, eu sou @gus-ant!** 
 
-## 🚀 Sobre Mim
-- 🧠 Busco conhecimento: Sempre curioso, atualmente estou mergulhando no universo do Python.
-- ✈️ Apaixonado por Aeronáutica: A combinação perfeita entre tecnologia e céu aberto.
-- 🦋 Fato Curioso: Eu adoro borboletas — criaturas delicadas, mas extremamente resilientes.
-- 📫 Como falar comigo: Me encontre no Instagram em @sheik.gustav.
+👀 **Interesses:** Python e Física  
+🌱 **Atualmente aprendendo:** Python avançado  
+📫 **Contato:** [@sheik.gustav](https://www.instagram.com/sheik.gustav)  
+⚡ **Fato curioso:** Eu gosto muito de correr 🏃‍♂️ 
 
-## 🛠️ Habilidades Principais:
-- 🐍 Python — Desenvolvimento de scripts, automação, APIs, servidores Flask e soluções criativas.
-- 💻 Desenvolvimento de Software — Criando soluções inteligentes para problemas reais.
+---
 
-## 📚 Atualmente Estudando:
-- Python Avançado: Melhorando minhas habilidades em frameworks modernos.
-- Engenharia: Buscando entender como otimizar projetos para eficiência máxima.
+## 🛠️ **Tecnologias & Ferramentas**  
 
-## 🦄 Curiosidades Aleatórias Sobre Mim:
-- 🧩 Amo resolver quebra-cabeças e desafios lógicos.
-- 🎵 Escuto música enquanto programo — playlists de lo-fi são minhas favoritas!
-- 📖 Adoro ler livros sobre ciência e tecnologia.
-- 💬 Vamos Conversar?
-### Sinta-se à vontade para entrar em contato! Seja para bater um papo, colaborar em projetos ou apenas trocar ideias sobre tecnologia e aeronáutica. 🚀
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Pygame](https://img.shields.io/badge/Pygame-5DADE2?style=for-the-badge&logo=python&logoColor=white)  
 
-## "O céu não é o limite, é apenas o começo." ✈️✨
+---
+
+## 📊 **Estatísticas do GitHub**  
+
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gus-ant&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-ant&layout=compact&theme=radical)
+
+---
+
+## 📸 **Momentos Especiais**  
+
+🖼️ **Galeria:**  
+- 📷 *Primeiro projeto Python concluído!*
+- ☕ *Minha primeira API*
+- 🚀 *Simulador de Física com Pygame*  
+
+---
+
+## 🤝 **Vamos nos conectar?**  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheik.gustav)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gus-ant)  
+
+---
+
+> 📝 *Esse README foi criado com ❤. Se gostou, deixe uma ⭐ no meu perfil!*  
