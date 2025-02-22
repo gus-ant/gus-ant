@@ -1,9 +1,9 @@
 # 🚀 **Olá, eu sou @gus-ant!** 
 
-👀 **Interesses:** Python e Física  
+👀 **Interesses:** Engenharia de Software e IA development
 🌱 **Atualmente aprendendo:** Python avançado  
 📫 **Contato:** [@sheik.gustav](https://www.instagram.com/sheik.gustav)  
-⚡ **Fato curioso:** Eu gosto muito de correr 🏃‍♂️ 
+⚡ **Fato curioso:** Eu gosto de correr 🏃‍♂️ e desenhar 📝
 
 ---
 
