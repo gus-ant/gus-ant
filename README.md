@@ -1,4 +1,4 @@
-# 🚀 **Olá, eu sou @gus-ant!** 
+# 🚀 **Olá, eu sou o Gustavo Antonio!** 
 
 👀 **Interesses:** Engenharia de Software e IA development
 🌱 **Atualmente aprendendo:** Python avançado  
