@@ -2,8 +2,8 @@
 
 👀 **Interesses:** Engenharia de Software e IA development
 🌱 **Atualmente aprendendo:** Python avançado  
-📫 **Contato:** [@sheik.gustav](https://www.instagram.com/sheik.gustav)  
-⚡ **Fato curioso:** Eu gosto de correr 🏃‍♂️ e desenhar 📝
+📫 **Contato:** [gustav.odev](https://www.instagram.com/gustav.odev)  
+⚡ **Fato curioso:**  Meus hobbies são correr 🏃‍♂️ e desenhar 📝
 
 ---
 
