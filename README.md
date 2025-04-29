@@ -25,8 +25,11 @@
 ## 📸 **Momentos Especiais**  
 
 🖼️ **Galeria:**  
-- 📷 *Primeiro projeto Python concluído!*
-- ☕ *Minha primeira API*
+---
+☕ **Minha primeira API**
+
+![gus-ant/CAFE_API_TEST/blob/main/DAY_66_API_REST/coffee_api.PNG](https://github.com/gus-ant/CAFE_API_TEST/blob/123478d5c1d7488fc563cabfdd37d6acc77b15b6/DAY_66_API_REST/coffee_api.PNG)
+---
 - 🚀 *Simulador de Física com Pygame*  
 
 ---
