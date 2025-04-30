@@ -1,9 +1,10 @@
 # 🚀 **Olá, eu sou o Gustavo Antonio!** 
 
 👀 **Interesses:** Engenharia de Software e IA development
+
 🌱 **Atualmente aprendendo:** Python avançado  
-📫 **Contato:** [gustav.odev](https://www.instagram.com/gustav.odev)  
-⚡ **Fato curioso:**  Meus hobbies são correr 🏃‍♂️ e desenhar 📝
+
+📫 **Contato:** [gustav.odev](https://www.instagram.com/gustav.odev) 
 
 ---
 
