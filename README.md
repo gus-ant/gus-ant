@@ -33,7 +33,7 @@
 ---
 - 🚀 *Simulador de Física com Pygame*  
 
-![https://github.com/gus-ant/My-beginner-projects/blob/c94042dd2a94bcd27fad29fbd22f775925845f7d/Fisica/Screenshot%202025-04-29%20at%2014-33-40%20Your%20Pygame%20Trinket.png](https://github.com/gus-ant/My-beginner-projects/blob/f843980a7e3a2291ba28ea2ee4a165617000af4e/Fisica/Screenshot%202025-04-29%20at%2014-48-48%20Your%20Pygame%20Trinket.png)
+![https://github.com/gus-ant/My-beginner-projects/blob/c94042dd2a94bcd27fad29fbd22f775925845f7d/Fisica/Trinket1.png](https://github.com/gus-ant/My-beginner-projects/blob/f843980a7e3a2291ba28ea2ee4a165617000af4e/Fisica/Screenshot%202025-04-29%20at%2014-48-48%20Your%20Pygame%20Trinket.png)
 
 ---
 
