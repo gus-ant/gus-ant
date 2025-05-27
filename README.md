@@ -2,7 +2,7 @@
 
 👀 **Interesses:** Engenharia de Software e IA development
 
-🌱 **Atualmente aprendendo:** Python avançado  
+🌱 **Atualmente aprendendo:** Python avançado e Java
 
 📫 **Contato:** [gustav.odev](https://www.instagram.com/gustav.odev) 
 
@@ -10,9 +10,12 @@
 
 ## 🛠️ **Tecnologias & Ferramentas**  
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Pygame](https://img.shields.io/badge/Pygame-5DADE2?style=for-the-badge&logo=python&logoColor=white)  
+
 
 ---
 
@@ -23,15 +26,28 @@
 
 ---
 
-## 📸 **Momentos Especiais**  
+## 🧠 **Projeto SIGAA 2 - Orientação a Objetos**  
+
+🎓 Sistema acadêmico em Java com suporte a:
+
+- Cadastro e herança entre **Alunos Normais** e **Especiais**
+- Criação de **Turmas** com horários validados
+- Lançamento de **Avaliações e Frequência**
+- Controle de **disciplinas com pré-requisitos**
+- Persistência em arquivos `.txt`
+- Uso de **herança**, **polimorfismo**, **encapsulamento** e **sobrecarga**
+
+🔗 [Repositório GitHub](https://github.com/gus-ant/ep1-OO-2025_1_GUSTAVO_ANTONIO)
+---
 
 🖼️ **Galeria:**  
 ---
-☕ **Minha primeira API**
+
+- ☕ **Minha primeira API**
 
 ![gus-ant/CAFE_API_TEST/blob/main/DAY_66_API_REST/coffee_api.PNG](https://github.com/gus-ant/CAFE_API_TEST/blob/123478d5c1d7488fc563cabfdd37d6acc77b15b6/DAY_66_API_REST/coffee_api.PNG)
 ---
-- 🚀 *Simulador de Física com Pygame*  
+- 🚀 *Simulador de Física em lançamento parabólica com Python*  
 
 ![https://github.com/gus-ant/My-beginner-projects/blob/c94042dd2a94bcd27fad29fbd22f775925845f7d/Fisica/Trinket1.png](https://github.com/gus-ant/My-beginner-projects/blob/main/Fisica/Trinket1.png)
 
