@@ -21,8 +21,8 @@
 
 ## 📊 **Estatísticas do GitHub**  
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gus-ant&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-ant&layout=compact&theme=radical)
+![Gustavo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-ant&theme=blue-green)]
+
 
 ---
 
