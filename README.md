@@ -37,6 +37,14 @@
 - Persistência em arquivos `.txt`
 - Uso de **herança**, **polimorfismo**, **encapsulamento** e **sobrecarga**
 
+## 🧠 **Projeto Tá Marcado - Orientação a Objetos**  
+🎓 Sistema de eventos em Java com suporte a:
+
+- Criação e administração de eventos;
+- Cadastro e login de usuários com controle de permissões (cliente e administrador);
+- Compra de ingressos com geração de QR Code;
+- Interface com templates e persistência de dados em arquivos JSON.
+
 🔗 [Repositório GitHub](https://github.com/gus-ant/ep1-OO-2025_1_GUSTAVO_ANTONIO)
 ---
 
@@ -46,11 +54,10 @@
 - ☕ **Minha primeira API**
 
 ![gus-ant/CAFE_API_TEST/blob/main/DAY_66_API_REST/coffee_api.PNG](https://github.com/gus-ant/CAFE_API_TEST/blob/123478d5c1d7488fc563cabfdd37d6acc77b15b6/DAY_66_API_REST/coffee_api.PNG)
----
-- 🚀 *Simulador de Física em lançamento parabólica com Python*  
 
-![https://github.com/gus-ant/My-beginner-projects/blob/c94042dd2a94bcd27fad29fbd22f775925845f7d/Fisica/Trinket1.png](https://github.com/gus-ant/My-beginner-projects/blob/main/Fisica/Trinket1.png)
+- **Sistema de gestão e compra de ingressos para eventos completo, que tem suporte a geração de QR Code como ingresso, login de usuários e painel administrativo e foi desenvolvido com Python (Bottle), HTML/CSS e persistência em JSON**
 
+![gus-ant](https://github.com/gus-ant/epf-ta-marcado/blob/30449174d450ad52609ac964e5eaae822e0de3e1/static/img/detalhe_evento.png)
 ---
 
 ## 🤝 **Vamos nos conectar?**  
