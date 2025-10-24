@@ -21,7 +21,7 @@
 
 ## 📊 **Estatísticas do GitHub**  
 
-![Gustavo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-ant&theme=blue-green)]
+![Gustavo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-ant&theme=blue-green)
 
 
 ---
@@ -45,19 +45,6 @@
 - Compra de ingressos com geração de QR Code;
 - Interface com templates e persistência de dados em arquivos JSON.
 
-🔗 [Repositório GitHub](https://github.com/gus-ant/ep1-OO-2025_1_GUSTAVO_ANTONIO)
----
-
-🖼️ **Galeria:**  
----
-
-- ☕ **Minha primeira API**
-
-![gus-ant/CAFE_API_TEST/blob/main/DAY_66_API_REST/coffee_api.PNG](https://github.com/gus-ant/CAFE_API_TEST/blob/123478d5c1d7488fc563cabfdd37d6acc77b15b6/DAY_66_API_REST/coffee_api.PNG)
-
-- **Sistema de gestão e compra de ingressos para eventos completo, que tem suporte a geração de QR Code como ingresso, login de usuários e painel administrativo e foi desenvolvido com Python (Bottle), HTML/CSS e persistência em JSON**
-
-![gus-ant](https://github.com/gus-ant/epf-ta-marcado/blob/30449174d450ad52609ac964e5eaae822e0de3e1/static/img/detalhe_evento.png)
 ---
 
 ## 🤝 **Vamos nos conectar?**  
@@ -68,4 +55,10 @@
 
 ---
 
-> 📝 *Esse README foi criado com ❤. Se gostou, deixe uma ⭐ no meu perfil!*  
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
