@@ -1,8 +1,6 @@
 # 🚀 **Olá, eu sou o Gustavo Antonio!** 
 
-👀 **Interesses:** Engenharia de Software e IA development
-
-🌱 **Atualmente aprendendo:** Python avançado e Java
+👀 **Interesses:** Engenharia de Software e AI Systems
 
 📫 **Contato:** [gustav.odev](https://www.instagram.com/gustav.odev) 
 
@@ -25,6 +23,13 @@
 
 
 ---
+## 🫀 **Previsão de doenças cardíacas com Machine Learning - Kaggle**  
+
+Este projeto de Machine Learning visa desenvolver um modelo de classificação robusto capaz de prever a presença de doença cardíaca em pacientes com base em dados clínicos e demográficos, alcançando uma **acurácia de 98.5%** no conjunto de testes. 
+
+![Clique aqui para ver o repositório](https://github.com/gus-ant/kaggle-heart-disease-dataset)
+
+
 
 ## 🧠 **Projeto SIGAA 2 - Orientação a Objetos**  
 
