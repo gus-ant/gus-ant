@@ -1,13 +1,8 @@
 # 🚀 **Olá, eu sou o Gustavo Antonio!** 
 
 
-<div align="center">
-  <img src="https://github.com/gus-ant/gus-ant/blob/main/banner_git.png" alt="My banner" style="height:200px">
-</div>
 
-</br>
-
-✍️ **Projetos Principais:** Engenharia de Software na UnB, Gama e AI Systems
+✍️ **Estudos:** Engenharia de Software na UnB, Gama e AI Systems
 
 📫 **Contato:** [gustav.odev](https://www.instagram.com/gustav.odev) 
 
