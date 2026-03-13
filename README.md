@@ -1,4 +1,4 @@
-# 🚀 **Olá, eu sou o Gustavo Antonio!** 
+# **Olá, eu sou o Gustavo Antonio!** 
 
 
 
