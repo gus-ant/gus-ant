@@ -11,7 +11,7 @@ Estudante de Engenharia de Software na Universidade de Brasília (FGA), focado n
 
 ---
 
-## 🛠️ **Tecnologias & Ferramentas**
+## **Tecnologias & Ferramentas**
 
 ### **Linguagens & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,53 +61,62 @@ Estudante de Engenharia de Software na Universidade de Brasília (FGA), focado n
 </div>
 
 ---
+## **Projetos de IA & Sistemas Inteligentes**
 
-## 🤖 **Projetos de IA & Sistemas Inteligentes**
-
-### 🧠 **Dito e Feito** (2026-Squad4)
+### **Dito e Feito** (2026-Squad4)
 > **Foco:** NLP, Processamento de Linguagem Natural & Auditoria Cívica
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
 * Plataforma inteligente voltada ao monitoramento da coerência política de parlamentares no Brasil, cruzando discursos com o comportamento de votação real em plenário.
 * Extração automatizada (web scraping) e processamento cognitivo com modelos LLM (Llama-3 via OpenRouter e Groq) e modelos de embeddings em português (BERTimbau).
-* **Stack:** Python, React, PostgreSQL, Supabase, LLMs.
 * 🔗 **[Ver Repositório](https://github.com/unb-mds/2026-1-Squad4-Dito_e_Feito)**
 
-### 💼 **Óptima IA — CRM & Agente Lara** (optima-ti)
+### **Óptima IA — CRM & Agente Lara** (optima-ti)
 > **Foco:** Agentes Conversacionais (LangGraph) & Arquitetura Multi-Tenant
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 * Agente de qualificação de leads via WhatsApp ("Lara") que gerencia conversas estruturadas e tomada de decisões lógicas integrado a um CRM Multi-Tenant.
 * Implementação de banco vetorial (**pgvector**) e controle rigoroso de acesso e isolamento com **Row Level Security (RLS)** do PostgreSQL.
-* **Stack:** Python, FastAPI, LangGraph, LangChain, Supabase, Redis, SQLAlchemy.
 
-### 🫀 **Previsão de Doenças Cardíacas**
+### **Previsão de Doenças Cardíacas**
 > **Acurácia: 98.5%** | **Foco:** Machine Learning & Classificação
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 * Modelo de classificação preditiva para diagnosticar a presença de doenças cardíacas com base em dados clínicos e comportamentais de pacientes.
-* **Stack:** Python, Pandas, NumPy, Scikit-Learn.
 * 🔗 **[Ver Repositório](https://github.com/gus-ant/kaggle-heart-disease-dataset)**
 
 ---
 
-## 💻 **Aplicações Web, Mobile & Sistemas**
+## **Aplicações Web, Mobile & Sistemas**
 
-### 📱 **Psychomeasure / Tapr** (TAPR_work)
-> **Foco:** Ecossistema de Psicometria e Avaliação Clínica
+### **Psychomeasure / Tapr** (TAPR_work)
+> **Foco:** Ecossistema de Psicometria e Avaliação Clinical
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 * Conjunto de aplicações (Web, Mobile e Backend) desenvolvidas para suporte a medições e avaliações no contexto da psicologia clínica.
 * Arquitetura modular composta por uma API Python, aplicação Mobile nativa desenvolvida em Flutter e painel web moderno com Vue 3 (Vite/TypeScript).
-* **Stack:** Flutter (Dart), Vue 3, TypeScript, Python (Poetry).
 
-### 🎫 **Projeto Tá Marcado**
+### **Projeto Tá Marcado**
 > **Foco:** Sistema Acadêmico de Eventos (POO Java)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 * Plataforma completa de venda e administração de ingressos com controle de acesso baseado em papéis (RBAC) e persistência de dados.
 * Integração de QR Codes gerados dinamicamente para validação rápida de bilhetes.
-* **Stack:** Java, JSON, templates reutilizáveis.
 
-### 🎓 **Projeto SIGAA 2**
+### **Projeto SIGAA 2**
 > **Foco:** Engenharia de Software & POO
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 * Sistema simulado de controle acadêmico demonstrando conceitos avançados de POO (herança, polimorfismo, encapsulamento e sobrecarga).
 * Validação rigorosa de conflitos de horários em turmas e controle de disciplinas pré-requisito.
-* **Stack:** Java, persistência em `.txt`.
 
----
-
-## 🤝 **Vamos nos conectar?**
+## **Vamos nos conectar?**
 
 <div align="center">
   <a href="https://linkedin.com/in/gustavo-antonio-seu-link" target="_blank">
@@ -123,7 +132,7 @@ Estudante de Engenharia de Software na Universidade de Brasília (FGA), focado n
 
 ---
 
-## 📈 **Atividade no GitHub**
+## **Atividade no GitHub**
 
 <div align="center">
   <picture>
